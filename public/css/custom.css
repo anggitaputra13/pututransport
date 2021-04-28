@@ -1,0 +1,47 @@
+.body {
+    font-family: "Montserrat", sans-serif;
+    background-color: white;
+}
+
+.pilihmobil img {
+    max-height: 100px;
+}
+
+.pilihmobil card {
+    border-radius: 15px;
+}
+
+.carousel-inner {
+    border-radius: 10px;
+}
+
+.mobil img {
+    max-height: 100px;
+}
+
+.mobil card {
+    border-radius: 15px;
+}
+
+.aboutus img {
+    height: 100%;
+    width: 25%;
+}
+
+.tulisan {
+    text-align: center;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0;
+}
+
+.breadcrumb .active {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-dark {
+    border-radius: 10px;
+}

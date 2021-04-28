@@ -19,4 +19,5 @@ Route::get('/', function () {
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::livewire('/', 'home')->name('home');
+Route::livewire('/products', 'product-index')->name('products');
